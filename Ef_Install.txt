@@ -1,0 +1,13 @@
+Attempting to gather dependencies information for package 'EntityFramework.6.1.3' with respect to project 'Test2', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'EntityFramework.6.1.3' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'EntityFramework.6.1.3'
+Resolved actions to install package 'EntityFramework.6.1.3'
+Adding package 'EntityFramework.6.1.3' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'EntityFramework.6.1.3' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'EntityFramework.6.1.3' to 'packages.config'
+Executing script file 'C:\Development\Playground\Nuget Errors\Test2\packages\EntityFramework.6.1.3\tools\init.ps1'...
+Executing script file 'C:\Development\Playground\Nuget Errors\Test2\packages\EntityFramework.6.1.3\tools\install.ps1'...
+
+Type 'get-help EntityFramework' to see all available Entity Framework commands.
+Successfully installed 'EntityFramework 6.1.3' to Test2
+========== Finished ==========
