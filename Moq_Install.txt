@@ -1,0 +1,9 @@
+Attempting to gather dependencies information for package 'Moq.4.2.1510.2205' with respect to project 'Test2', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'Moq.4.2.1510.2205' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'Moq.4.2.1510.2205'
+Resolved actions to install package 'Moq.4.2.1510.2205'
+Adding package 'Moq.4.2.1510.2205' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'Moq.4.2.1510.2205' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'Moq.4.2.1510.2205' to 'packages.config'
+Successfully installed 'Moq 4.2.1510.2205' to Test2
+========== Finished ==========
