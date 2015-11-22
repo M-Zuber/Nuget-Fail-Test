@@ -1,0 +1,7 @@
+C:\Development\Playground\Nuget Errors\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Development\Playground\Nuget Errors\Test2\Nuget-Fail-Test\bin\Debug\Test2.exe.config
+C:\Development\Playground\Nuget Errors\Test2\Nuget-Fail-Test\bin\Debug\Test2.exe
+C:\Development\Playground\Nuget Errors\Test2\Nuget-Fail-Test\bin\Debug\Test2.pdb
+C:\Development\Playground\Nuget Errors\Test2\Nuget-Fail-Test\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Development\Playground\Nuget Errors\Test2\Nuget-Fail-Test\obj\Debug\Test2.exe
+C:\Development\Playground\Nuget Errors\Test2\Nuget-Fail-Test\obj\Debug\Test2.pdb
