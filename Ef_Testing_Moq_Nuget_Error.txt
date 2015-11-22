@@ -1,0 +1,35 @@
+Attempting to gather dependencies information for package 'EntityFrameworkTesting.Moq.1.1.5' with respect to project 'Test2', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'EntityFrameworkTesting.Moq.1.1.5' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'EntityFrameworkTesting.Moq.1.1.5'
+Resolved actions to install package 'EntityFrameworkTesting.Moq.1.1.5'
+Install failed. Rolling back...
+Package 'EntityFramework 6.0.0' does not exist in project 'Test2'
+Package 'EntityFramework 6.0.0' does not exist in folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NuGet.Protocol.Core.v3.GlobalPackagesFolderUtility.<AddPackageAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at NuGet.Protocol.Core.v3.DownloadResourceV3.<GetDownloadResourceResultAsync>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NuGet.PackageManagement.PackageDownloader.<GetDownloadResourceResultAsync>d__1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at NuGet.PackageManagement.NuGetPackageManager.<ExecuteNuGetProjectActionsAsync>d__42.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at NuGet.PackageManagement.NuGetPackageManager.<ExecuteNuGetProjectActionsAsync>d__42.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NuGet.PackageManagement.UI.UIActionEngine.<ExecuteActionsAsync>d__5.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NuGet.PackageManagement.UI.UIActionEngine.<PerformActionAsync>d__3.MoveNext()
+========== Finished ==========
