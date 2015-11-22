@@ -1,0 +1,9 @@
+Attempting to gather dependencies information for package 'EntityFrameworkTesting.1.1.4' with respect to project 'Test2', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'EntityFrameworkTesting.1.1.4' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'EntityFrameworkTesting.1.1.4'
+Resolved actions to install package 'EntityFrameworkTesting.1.1.4'
+Adding package 'EntityFrameworkTesting.1.1.4' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'EntityFrameworkTesting.1.1.4' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'EntityFrameworkTesting.1.1.4' to 'packages.config'
+Successfully installed 'EntityFrameworkTesting 1.1.4' to Test2
+========== Finished ==========
