@@ -1,0 +1,9 @@
+Attempting to gather dependencies information for package 'EntityFrameworkTesting.Moq.1.1.5' with respect to project 'Test2', targeting '.NETFramework,Version=v4.5.2'
+Attempting to resolve dependencies for package 'EntityFrameworkTesting.Moq.1.1.5' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'EntityFrameworkTesting.Moq.1.1.5'
+Resolved actions to install package 'EntityFrameworkTesting.Moq.1.1.5'
+Adding package 'EntityFrameworkTesting.Moq.1.1.5' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'EntityFrameworkTesting.Moq.1.1.5' to folder 'C:\Development\Playground\Nuget Errors\Test2\packages'
+Added package 'EntityFrameworkTesting.Moq.1.1.5' to 'packages.config'
+Successfully installed 'EntityFrameworkTesting.Moq 1.1.5' to Test2
+========== Finished ==========
